@@ -137,3 +137,8 @@ MonoBehaviour:
   paddle1: {fileID: 0}
   xPush: 2
   yPush: 15
+  ballSounds:
+  - {fileID: 8300000, guid: fec621f92215e01b6853cb3fb0eec7e7, type: 3}
+  - {fileID: 8300000, guid: f3085027c184141b7bf4743a2e1e2da3, type: 3}
+  - {fileID: 8300000, guid: ffa98846adf323fdcbde5964d39c5ebe, type: 3}
+  - {fileID: 8300000, guid: cd9ea9bca93d81588843b0c6554b269a, type: 3}
